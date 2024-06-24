@@ -23,3 +23,4 @@ rootProject.name = "Android_Review-KSH"
 include(":app")
 include(":android_review01_kshn379")
 include(":android_review03_kshn379")
+include(":android_review02_kshn379")
